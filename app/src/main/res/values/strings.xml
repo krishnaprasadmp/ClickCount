@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClickCount</string>
+    <string name="click">click</string>
+    <string name="button_count">Button Count</string>
+    <string name="clickCount">0</string>
+    <string name="background">Background Count</string>
+    <string name="background_count">0</string>
+</resources>
